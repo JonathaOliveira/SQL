@@ -11,5 +11,5 @@
   <li>Banco de dados relacional - Oracle</li>
   <li>SQL</li>
 </ul>
-<i>Lembrando que todos os comandos de SQL são "quase 100% eficientes em todos os bancos relacionais" mas meus testes são realizados no Oracle!</i>
+<i>Lembrando que todos os comandos de SQL são "quase 100% eficientes em todos os bancos relacionais" mas meus testes são realizados no Oracle!!</i>
 <hr>
