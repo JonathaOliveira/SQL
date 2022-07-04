@@ -1,3 +1,12 @@
+﻿/*
+==== SCRIPT´S (EBOOK - Banco de Dados & SQL para inciantes) ====
+Autor:        Jonatha Araujo Oliveira
+Github:       https://github.com/JonathaOliveira
+Telefone:     (61) 9 9919-8141
+E-mail:       pantheon.jonatha@gmail.com
+Versão:       1.0
+*/
+
 [Comando para executar no SQL/Plus]
 exp admin/MANAGER@XE file=c:\backup.dmp log=c:\backup.txt statistcs=none indexes=no;
 
