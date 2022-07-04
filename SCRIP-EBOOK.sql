@@ -4,6 +4,7 @@ Autor:        Jonatha Araujo Oliveira
 Github:       https://github.com/JonathaOliveira
 Telefone:     (61) 9 9919-8141
 E-mail:       pantheon.jonatha@gmail.com
+Versão:       1.0
 */
 
 /*== Cap (SQL - Introdução) ==*/
