@@ -1,7 +1,7 @@
-# SQL
+# Banco de dados para iniciantes e SQL (E-book)
 <!--Modelo Jonatha Araujo Oliveira-->
 <!--Titulo do projeto-->
-<h2> 🛸 Projeto : SQL - (Standard Query Language)</h2>
+<h2> 🛸 Configurações e comandos SQL do e-book Banco de dados para iniciantes & SQL (Pnatheon)</h2>
 <!--Introdução e Objetivo-->
 <h3> Objetivo </h3>
 <p><i>Esse é meu um projeto voltado a comandos SQL e exemplos de como resolver alguns problemas ou auxiliar em algumas demandas de geração de script.</br></i></p>
