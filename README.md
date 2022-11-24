@@ -4,7 +4,11 @@
 <h2> 🛸 Configurações e comandos SQL do e-book Banco de dados para iniciantes & SQL (Pnatheon)</h2>
 <!--Introdução e Objetivo-->
 <h3> Objetivo </h3>
-<p><i>Esse é meu um projeto voltado a comandos SQL e exemplos de como resolver alguns problemas ou auxiliar em algumas demandas de geração de script.</br></i></p>
+<p><i>Olá seja bem-vindo, se chegou até aqui fico muito grato pelo seu interesse de adquirir mais conhecimento! Esse é um pequeno projeto do que apresento no meu e-book (Banco de dados para iniciantes & SQL).
+Aqui você vai encontrar comandos de como configurar usuário do banco de dados, SQL utilizados nos capítulos deste e-book e como executar script de importação e importação de uma base de dados Oracle!
+
+Obs: Todos os comandos desse projeto foram testados com banco de dados Oracle.
+</br></i></p>
 <!--Tecnologias-->
 <h4> Tecnologias para esse projeto </h4>
 <ul>
