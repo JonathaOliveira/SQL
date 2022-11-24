@@ -9,7 +9,7 @@ Aqui você vai encontrar comandos de como configurar usuário do banco de dados,
 
 
 
-Obs: Todos os comandos desse projeto foram testados com banco de dados Oracle.
+Obs: Todos os comandos desse projeto foram testados com banco de dados Oracle versão XE 21c.
 </br></i></p>
 <!--Tecnologias-->
 <h4> Tecnologias para esse projeto </h4>
@@ -17,5 +17,5 @@ Obs: Todos os comandos desse projeto foram testados com banco de dados Oracle.
   <li>Banco de dados relacional - Oracle</li>
   <li>SQL</li>
 </ul>
-<i>Lembrando que todos os comandos de SQL são "quase 100% eficientes em todos os bancos relacionais" mas meus testes são realizados no Oracle!!</i>
+
 <hr>
